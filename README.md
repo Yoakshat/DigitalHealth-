@@ -20,7 +20,7 @@ I have no way to communicate with my doctor easily. Examples of digital health s
 you can contact your doctors anytime, anywhere. The second part is making patient experience simple. Sometimes we're thrown into the orthodontist
 s office or the cardiologist's office: so many different areas of health. All these areas are fragmented: we're one person, we have one health. The areas, 
 the stories of our health need to be connected. We and the doctors need to understand how they're connected. We have 30 doctors all telling us different things 
-based on different data -- yet we don't have one global action plan. We are just left confused. Then what's the point of healthcare? 
+based on different data -- yet we don't have one global action plan. We are just left confused. Then what's the point of healthcare? Digital health is working on a space for everyone to connect together -- like the Internet. 
 
 When I think of digital health, I define it as tech that enables doctors to have the best information to act on and patients to receive the best 
 quality care. 
